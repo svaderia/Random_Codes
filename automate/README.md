@@ -13,4 +13,4 @@ source code of the website. To be able to do that you need to press `CLTR + Shif
 ```
 mechanize
 ```
-`mechanize` library supports `Python2`.
+`mechanize` library supports `Python2` only hence the code is compatible with only `python2`.

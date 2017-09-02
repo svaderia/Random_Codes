@@ -6,3 +6,4 @@
 * [PyScript](https://github.com/svaderia/Random_Codes/blob/master/pyscript): This script generates new python files with default `shebang`, `Authorname`, `date` and default codes.
 * [Syllables](https://github.com/svaderia/Random_Codes/blob/master/syllables): This script counts number of Syllables in given word.
 * [WallpaperSetter](https://github.com/svaderia/Random_Codes/blob/master/wallpaper): This script downloads a random wallpaper from [https://wallpapers.wallhaven.cc](https://wallpapers.wallhaven.cc) and set it as your home script wallpaper.
+* [TicTacToe](https://github.com/svaderia/Random_Codes/blob/master/tictactoe): Player Vs Computer GUI of `tic tac toe` using `MinMax` algorithm.

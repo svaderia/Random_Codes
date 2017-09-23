@@ -7,3 +7,5 @@
 * [Syllables](https://github.com/svaderia/Random_Codes/blob/master/syllables): This script counts number of Syllables in given word.
 * [WallpaperSetter](https://github.com/svaderia/Random_Codes/blob/master/wallpaper): This script downloads a random wallpaper from [https://wallpapers.wallhaven.cc](https://wallpapers.wallhaven.cc) and set it as your home script wallpaper.
 * [TicTacToe](https://github.com/svaderia/Random_Codes/blob/master/tictactoe): Player Vs Computer GUI of `tic tac toe` using `MinMax` algorithm.
+* [Music Organizer](https://github.com/svaderia/Random_Codes/blob/master/music_organizer):
+This script organize my songs according to their download time and create a symlink to each song in music folder.
